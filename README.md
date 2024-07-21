@@ -16,10 +16,11 @@ This Docker setup will allow you to host your React UI Component Library on loca
 ```
 git clone https://github.com/mcook-2/cook_mckenzie_ui_garden
 ```
-Change to Directory of Repo:
+  Change to Directory of Repo:
 ```
 cd cook_mckenzie_ui_garden
 ```
+
 2. Build the Docker image:
 
 ```
